@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @judejt
-- 👀 I’m interested in harmony, avalanche, and other chains 
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on any avalanche and harmony one projects
+- 👀 I’m interested in buidling Java Applications.
+- 🌱 I’m currently learning Java, JS,  & React.
 - 📫 reach me via my email: judetwumasi@icloud.com
