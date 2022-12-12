@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @judejt
-- 👀 I’m interested in buidling Java Applications.
-- 🌱 I’m currently learning Java, JS,  & React.
+- 👀 I’m interested in buidling Python and Java Applications.
+- 🌱 I’m currently learning Rust, and GO.
 - 📫 reach me via my email: judetwumasi@icloud.com
