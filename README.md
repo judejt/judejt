@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @judejt
--  I'm a software engineer and web developer with experience in TS, React and Python for building frontend websites.
+-  I'm a software engineer and web developer with experience in TS, React and Python for building frontends.
 - 👀 I’m interested in buidling Python and Java Applications.
 - 🌱 I’m currently learning Rust, and Go.
 - 📫 reach me via my email: judetwumasi@icloud.com
